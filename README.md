@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>🎓 Pioneer passionate about building and learning<br>- I build things and break into things.<br>- Full-stack. Mobile. AI. Cybersecurity. Research. That's the zone I operate in.
+><br>🎓 Pioneer passionate about building and learning<br>- I build things and break into things.<br>- Full-stack. Mobile. AI. Cybersecurity. Research. That's the zone I operate in.
 
 
 ## 🌐 Socials:
